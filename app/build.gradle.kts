@@ -14,7 +14,7 @@ android {
     buildToolsVersion = "34.0.0"
     defaultConfig {
         applicationId = "com.coderstory.toolkit"
-        minSdk = 28
+        minSdk = 26
         targetSdk = 34
         versionCode = 2019
         versionName = "4.5"
